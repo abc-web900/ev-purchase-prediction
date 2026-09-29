@@ -1,0 +1,4 @@
+id,Age,Annual_Income_USD,Daily_Commute_km,Number_of_Cars_Owned,Charging_Stations_Near_Home,Charging_Stations_Near_Work,Environmental_Concern_Level,Gender,City_Type,Current_Car_Type,Home_Charging_Possible,Subsidy_Available,Range_Anxiety_Level
+0,67,92713.79096020698,57.708914225348956,3,8,9,1.0,Female,Rural,Hatchback,No,No,High
+1,28,65716.25293357781,57.784663197174616,2,10,0,2.0,Female,Suburban,SUV,No,No,Medium
+2,19,89993.70313756715,68.19354952075204,1,3,2,2.0,Male,Urban,SUV,No,No,High
